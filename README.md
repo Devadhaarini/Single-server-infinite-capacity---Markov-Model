@@ -2,9 +2,6 @@
 ## Aim :
 To find (a) average number of materials in the system (b) average number of materials in the conveyor (c) waiting time of each material in the system (d) waiting time of each material in the conveyor, if the arrival  of materials follow poisson process with the mean interval time 12 seconds, serivice time of lathe machine follows exponential distribution with mean serice time 1 second and average service time of robot is 7seconds.
 
-## Developed by : D.Devadhaarini
-## Register no.: 212223230040
-
 ## Software required :
 Visual components and Python
 
@@ -25,6 +22,9 @@ This is a queuing model in which the arrival is Marcovian and departure distribu
 
 ![Screenshot 2023-12-21 223122](https://github.com/Devadhaarini/Single-server-infinite-capacity---Markov-Model/assets/145796552/0b94e07e-cb40-4cff-b30a-214c8942049a)
 ![Screenshot 2023-12-21 223135](https://github.com/Devadhaarini/Single-server-infinite-capacity---Markov-Model/assets/145796552/23d3e5f6-4534-40ba-97aa-7f3bd3a5aa2d)
+
+## Developed by : D.Devadhaarini
+## Register no.: 212223230040
 
 ## Program
 
